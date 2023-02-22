@@ -27,6 +27,8 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
   * Design cost-­optimized database solutions
   * Design cost-­optimized network architectures
 
+[Exam Guide](./Exam-Guide.pdf)
+
 ## Study Materials
 
 1. AWS Certified Solutions Architect Study Guide (Fourth Edition) by Ben Piper & David Clinton, 14 chapters
