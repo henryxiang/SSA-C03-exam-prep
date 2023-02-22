@@ -60,7 +60,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [ ] Exercise 1.1   Use the AWS CLI
 - [ ] Exercise 2.1   Launch an EC2 Linux Instance and Log In Using SSH
 - [ ] Exercise 2.2   Assess the Free Capacity of a Running Instance and Change Its Instance Type
-- [ ] Exercise 2.3   Assess Which Pricing Model Will Best Meet the Needs of a Deployment 34
+- [ ] Exercise 2.3   Assess Which Pricing Model Will Best Meet the Needs of a Deployment
 - [ ] Exercise 2.4   Create and Launch an AMI Based on an Existing Instance Storage Volume
 - [ ] Exercise 2.5   Create a Launch Template 
 - [ ] Exercise 2.6   Install the AWS CLI and Use It to Launch an EC2 Instance
