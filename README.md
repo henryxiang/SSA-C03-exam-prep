@@ -30,8 +30,8 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 ## Study Materials
 
-1. AWS Certified Solutions Architect Study Guide (Fourth Edition) by Ben Piper & David Clinton, 14 chapters
-2. O'Reilly Video Course: AWS Certified Solutions Architect - Associate (SAA-C02) by Chad Smith, 6 hours
+1. AWS Certified Solutions Architect Study Guide (Fourth Edition) by Ben Piper & David Clinton, 13 chapters
+2. O'Reilly Video Course: AWS Certified Solutions Architect - Associate (SAA-C03) by Chad Smith, 8 hours
 
 ## Execution Plan
 
@@ -39,7 +39,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 - [x] Chapter 1  Introduction to Cloud Computing and AWS
 - [x] Video Course Module 1: AWS Certified Solutions Architect Overview
-- [ ] Chapter 2  Compute Services
+- [x] Chapter 2  Compute Services
 - [ ] Chapter 3  AWS Storage
 - [ ] Chapter 4  Amazon Virtual Private Cloud (VPC)
 - [ ] Chapter 5  Database Services
