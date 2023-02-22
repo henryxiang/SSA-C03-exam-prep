@@ -1,6 +1,5 @@
 # Becoming An AWS Certified Solutions Architect
 
----
 
 ## Objective
 
@@ -36,7 +35,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 ## Execution Plan
 
-1. Phase 1: Finish the Study Guide and Video Course, 02/22/23 - 03/11/23
+### Phase 1: Finish the Study Guide and Video Course, 02/22/23 - 03/11/23
 
 - [x] Chapter 1  Introduction to Cloud Computing and AWS
 - [x] Video Course Module 1: AWS Certified Solutions Architect Overview
@@ -57,7 +56,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [ ] Chapter 13 Cost-­Optimized Architectures
 - [ ] Video Course Module 5: Design Cost-Optimized Architectures
 
-2. Phase 2: Hands-On Labs and Mock Exams, 03/12/23 - 04/08/23
+### Phase 2: Hands-On Labs and Mock Exams, 03/12/23 - 04/08/23
 
 - [ ] Exercise 1.1   Use the AWS CLI
 - [ ] Exercise 2.1   Launch an EC2 Linux Instance and Log In Using SSH
@@ -111,7 +110,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [ ] Exercise 13.2  Build Your Own Stack in Simple Monthly Calculator
 - [ ] Exercise 13.3  Request a Spot Fleet Using the AWS CLI
 
-3. Phase 3: Preparing and Taking the Exam, 04/09/23 - 05/06/23
+### Phase 3: Preparing and Taking the Exam, 04/09/23 - 05/06/23
 
 - Review the Study Guide and notes
 - Registering for the exam
