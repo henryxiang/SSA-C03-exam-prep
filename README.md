@@ -36,8 +36,8 @@ Pass the SAA-C03 Exam and become an AWS Certified Solutions Architect by May 6, 
 
 1. Phase 1: Finish the Study Guide and Video Course, 02/22/23 - 03/11/23
 
-- [ ] Chapter 1  Introduction to Cloud Computing and AWS
-- [ ] Video Course Module 1: AWS Certified Solutions Architect Overview
+- [x] Chapter 1  Introduction to Cloud Computing and AWS
+- [x] Video Course Module 1: AWS Certified Solutions Architect Overview
 - [ ] Chapter 2  Compute Services
 - [ ] Chapter 3  AWS Storage
 - [ ] Chapter 4  Amazon Virtual Private Cloud (VPC)
