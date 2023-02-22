@@ -4,7 +4,7 @@
 
 ## Objective
 
-Pass the SAA-C03 Exam and become an AWS Certified Solutions Architect by May 6, 2023.
+Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and become an AWS Certified Solutions Architect by May 6, 2023.
 
 ## Exam Topics
 
