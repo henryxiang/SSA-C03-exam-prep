@@ -112,7 +112,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 ### Phase 3: Preparing and Taking the Exam, 04/09/23 - 05/06/23
 
-- Review the Study Guide and notes
+- Review the Study Guide and [notes](./aws-saa-c03-study-notes.md)
 - Registering for the exam
 - Taking the exam
 
