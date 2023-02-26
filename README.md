@@ -1,9 +1,9 @@
-# Becoming An AWS Certified Solutions Architect
+# Becoming An AWS Certified Solutions Architect Associate
 
 
 ## Objective
 
-Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and become an AWS Certified Solutions Architect by May 6, 2023.
+Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and become an AWS Certified Solutions Architect Associate by May 6, 2023.
 
 ## Exam Topics
 
@@ -30,7 +30,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 ## Study Materials
 
-1. AWS Certified Solutions Architect Study Guide (Fourth Edition) by Ben Piper & David Clinton, 13 chapters
+1. AWS Certified Solutions Architect Associate Study Guide (Fourth Edition) by Ben Piper & David Clinton, 13 chapters
 2. O'Reilly Video Course: AWS Certified Solutions Architect - Associate (SAA-C03) by Chad Smith, 8 hours
 
 ## Execution Plan
@@ -40,7 +40,7 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [x] Chapter 1  Introduction to Cloud Computing and AWS
 - [x] Video Course Module 1: AWS Certified Solutions Architect Overview
 - [x] Chapter 2  Compute Services
-- [ ] Chapter 3  AWS Storage
+- [x] Chapter 3  AWS Storage
 - [ ] Chapter 4  Amazon Virtual Private Cloud (VPC)
 - [ ] Chapter 5  Database Services
 - [ ] Chapter 6  Authentication and Authorization: AWS Identity and Access Management
