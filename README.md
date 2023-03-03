@@ -41,8 +41,8 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [x] Video Course Module 1: AWS Certified Solutions Architect Overview
 - [x] Chapter 2  Compute Services
 - [x] Chapter 3  AWS Storage
-- [ ] Chapter 4  Amazon Virtual Private Cloud (VPC)
-- [ ] Chapter 5  Database Services
+- [x] Chapter 4  Amazon Virtual Private Cloud (VPC)
+- [x] Chapter 5  Database Services
 - [ ] Chapter 6  Authentication and Authorization: AWS Identity and Access Management
 - [ ] Chapter 7  CloudTrail, CloudWatch, and AWS Config
 - [ ] Chapter 8  The Domain Name System and Network Routing: Amazon Route 53 and Amazon CloudFront
@@ -58,8 +58,8 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 
 ### Phase 2: Hands-On Labs and Mock Exams, 03/12/23 - 04/08/23
 
-- [ ] Exercise 1.1   Use the AWS CLI
-- [ ] Exercise 2.1   Launch an EC2 Linux Instance and Log In Using SSH
+- [x] Exercise 1.1   Use the AWS CLI
+- [x] Exercise 2.1   Launch an EC2 Linux Instance and Log In Using SSH
 - [ ] Exercise 2.2   Assess the Free Capacity of a Running Instance and Change Its Instance Type
 - [ ] Exercise 2.3   Assess Which Pricing Model Will Best Meet the Needs of a Deployment
 - [ ] Exercise 2.4   Create and Launch an AMI Based on an Existing Instance Storage Volume
