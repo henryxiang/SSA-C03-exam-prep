@@ -43,29 +43,29 @@ Pass the [SAA-C03 Exam](https://aws.amazon.com/certification/certified-solutions
 - [x] Chapter 3  AWS Storage
 - [x] Chapter 4  Amazon Virtual Private Cloud (VPC)
 - [x] Chapter 5  Database Services
-- [ ] Chapter 6  Authentication and Authorization: AWS Identity and Access Management
-- [ ] Chapter 7  CloudTrail, CloudWatch, and AWS Config
-- [ ] Chapter 8  The Domain Name System and Network Routing: Amazon Route 53 and Amazon CloudFront
-- [ ] Chapter 9  Data Ingestion, Transformation, and Analytics
-- [ ] Chapter 10 Resilient Architectures
-- [ ] Video Course Module 2: Design Resilient Architectures
-- [ ] Chapter 11 High-­Performing Architectures
-- [ ] Video Course Module 3: Design High-Performing Architectures
-- [ ] Chapter 12 Secure Architectures
-- [ ] Video Course Module 4: Specify Secure Applications and Architectures
-- [ ] Chapter 13 Cost-­Optimized Architectures
-- [ ] Video Course Module 5: Design Cost-Optimized Architectures
+- [x] Chapter 6  Authentication and Authorization: AWS Identity and Access Management
+- [x] Chapter 7  CloudTrail, CloudWatch, and AWS Config
+- [x] Chapter 8  The Domain Name System and Network Routing: Amazon Route 53 and Amazon CloudFront
+- [x] Chapter 9  Data Ingestion, Transformation, and Analytics
+- [x] Chapter 10 Resilient Architectures
+- [x] Video Course Module 2: Design Resilient Architectures
+- [x] Chapter 11 High-­Performing Architectures
+- [x] Video Course Module 3: Design High-Performing Architectures
+- [x] Chapter 12 Secure Architectures
+- [x] Video Course Module 4: Specify Secure Applications and Architectures
+- [x] Chapter 13 Cost-­Optimized Architectures
+- [x] Video Course Module 5: Design Cost-Optimized Architectures
 
 ### Phase 2: Hands-On Labs and Mock Exams, 03/12/23 - 04/08/23
 
 - [x] Exercise 1.1   Use the AWS CLI
 - [x] Exercise 2.1   Launch an EC2 Linux Instance and Log In Using SSH
-- [ ] Exercise 2.2   Assess the Free Capacity of a Running Instance and Change Its Instance Type
-- [ ] Exercise 2.3   Assess Which Pricing Model Will Best Meet the Needs of a Deployment
-- [ ] Exercise 2.4   Create and Launch an AMI Based on an Existing Instance Storage Volume
-- [ ] Exercise 2.5   Create a Launch Template 
-- [ ] Exercise 2.6   Install the AWS CLI and Use It to Launch an EC2 Instance
-- [ ] Exercise 2.7   Clean Up Unused EC2 Resources
+- [x] Exercise 2.2   Assess the Free Capacity of a Running Instance and Change Its Instance Type
+- [x] Exercise 2.3   Assess Which Pricing Model Will Best Meet the Needs of a Deployment
+- [x] Exercise 2.4   Create and Launch an AMI Based on an Existing Instance Storage Volume
+- [x] Exercise 2.5   Create a Launch Template 
+- [x] Exercise 2.6   Install the AWS CLI and Use It to Launch an EC2 Instance
+- [x] Exercise 2.7   Clean Up Unused EC2 Resources
 - [ ] Exercise 3.1   Create a New S3 Bucket and Upload a File 
 - [ ] Exercise 3.2   Enable Versioning and Life Cycle Management for an S3 Bucket 
 - [ ] Exercise 3.3   Generate and Use a Presigned URL
